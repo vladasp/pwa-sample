@@ -1,5 +1,9 @@
 {
- "name": "App",
+ "name": "PWA sample",
+ "short_name": "pwa",
+  "lang": "ru-UA",
+  "start_url": "/",
+  "display": "standalone",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
