@@ -4,8 +4,6 @@
     "lang": "ru-UA",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "green",
-    "theme_color": "red",    
     "icons": [
         {
             "src": "/android-icon-36x36.png",
