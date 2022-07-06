@@ -2,7 +2,7 @@
     "name": "PWA sample",
     "short_name": "pwa",
     "lang": "ru-UA",
-    "start_url": "/index.html",
+    "start_url": "/",
     "display": "standalone",
     "icons": [
         {
