@@ -1,7 +1,7 @@
 ﻿{
     "name": "PWA sample",
     "short_name": "pwa",
-    "start_url": "/index.html",
+    "start_url": "/",
     "display": "standalone",
     "icons": [
         {

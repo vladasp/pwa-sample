@@ -8,9 +8,6 @@
 self.addEventListener("install", event => {
     console.log("Service worker installed from sw");
  });
- self.addEventListener("activate", event => {
-    console.log("Service worker activated from sw");
- });
 
 
 // Note that since global state is discarded in between service worker restarts, these
