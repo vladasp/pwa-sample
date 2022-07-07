@@ -20,7 +20,11 @@ self.addEventListener("install", event => {
 // updated service worker is activated.
 var CACHE_VERSION = 1;
 var CURRENT_CACHES = {
-  font: 'font-cache-v' + CACHE_VERSION
+  font: 'font-cache-v' + CACHE_VERSION,
+  index: 'index.html',
+  script: 'script.html',
+  stylesheet: 'stylesheet.css',
+
 };
 
 self.addEventListener('activate', function(event) {
