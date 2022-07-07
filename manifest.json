@@ -41,7 +41,7 @@
             "density": "4.0"
         },
         {
-            "src": "android-icon-512x512.png",
+            "src": "wcls-logo-512.png",
             "sizes": "512x512",
             "type": "image/png",
             "density": "4.0"
