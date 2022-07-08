@@ -86,7 +86,7 @@ self.addEventListener('fetch', function(event) {
             // the original response object which we will return back to the controlled page.
             // (see https://fetch.spec.whatwg.org/#dom-response-clone)
             console.log('  Caching the response to', event.request.url);
-            cache.put(event.request, response.clone());
+            //cache.put(event.request, response.clone());
           } else {
             console.log('  Not caching the response to', event.request.url);
           }
