@@ -24,7 +24,6 @@ var CURRENT_CACHES = {
   index: 'index.html',
   script: 'script.html',
   stylesheet: 'stylesheet.css',
-
 };
 
 self.addEventListener('activate', function(event) {
